@@ -35,9 +35,15 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
+## Role Assignment & Handoffs
+- Complete the [Role Assignment & Handoff Template](./octoacme-role-assignment-and-handoff-template.md) before execution begins
+- Confirm accountable owner for each project phase and release decision gate
+- Document handoffs between Product, Engineering, QA, and Operations in the project board
+
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Role coverage and handoff checklist completed

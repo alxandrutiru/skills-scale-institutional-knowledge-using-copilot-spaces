@@ -27,9 +27,11 @@ At a high level, OctoAcme follows an iterative project lifecycle:
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Role Assignment & Handoff Template](./octoacme-role-assignment-and-handoff-template.md)
 
 ## How to Use and Maintain These Docs
 - Start with the overview, then open the process-specific guide for your current project phase.
 - Reuse templates and checklists directly in project repos and boards.
+- Use the role assignment template during initiation/planning to clarify ownership and handoffs.
 - Update docs when workflows, roles, or decision gates change.
 - Treat this folder as living documentation: refine collaboratively and capture improvements after retrospectives.

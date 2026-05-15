@@ -16,8 +16,11 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Engineering Manager: supports staffing, delivery capacity, and escalation removal.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA/Testing: define quality gates and validate acceptance criteria.
+- UX/Design: shape user experience and accessibility requirements.
+- Operations/Support: ensure release readiness and post-release support continuity.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
@@ -26,6 +29,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
 - Risk Register
+- Role Assignment & Handoff (RACI) Template
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
